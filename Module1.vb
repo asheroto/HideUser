@@ -92,6 +92,8 @@ Module Module1
 
 Usage: " & AppName & " [options] <Username>
 
+USERNAME IS CASE SENSITIVE
+
 Options:
     --list      Lists all users hidden from logon screen. Username argument not required here.
     --hide      Hides user from logon screen.

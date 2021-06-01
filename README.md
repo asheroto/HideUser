@@ -6,6 +6,8 @@ Hide/show users on Windows logon screen.
 
 ```HideUser [options] <Username>```
 
+USERNAME IS CASE SENSITIVE
+
 **Options:**
 ```
     --list      Lists all users hidden from logon screen. Username argument not required here.
