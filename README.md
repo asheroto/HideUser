@@ -2,7 +2,9 @@
 
 Hide/show users on Windows logon screen.
 
-**Usage:** HideUser [options] <Username>
+**Usage:**
+
+```HideUser [options] <Username>```
 
 **Options:**
 ```
