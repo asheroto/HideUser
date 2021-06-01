@@ -2,13 +2,13 @@
 
 Hide/show users on Windows logon screen.
 
-## Usage
+**Usage:** HideUser [options] <Username>
 
-HideUser [options] <Username>
-
-Options:
+**Options:**
+```
     --list      Lists all users hidden from logon screen. Username argument not required here.
     --hide      Hides user from logon screen.
     --show      Shows user on logon screen.
 
     --help      Shows this help
+```
