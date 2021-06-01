@@ -94,7 +94,7 @@ Module Module1
 
     Sub ShowHelp()
         Console.WriteLine("")
-        Console.Write("Shows/hides user accounts from Windows logon screen.
+        Console.Write("Hide/show users on Windows logon screen.
 
 Usage: " & AppName & " [options] <Username>
 
