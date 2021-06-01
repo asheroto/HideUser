@@ -7,14 +7,14 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HideUser", "HideUser.vbproj
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7E5ED05B-D3BB-4279-A4B6-E1595F24ACCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7E5ED05B-D3BB-4279-A4B6-E1595F24ACCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7E5ED05B-D3BB-4279-A4B6-E1595F24ACCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7E5ED05B-D3BB-4279-A4B6-E1595F24ACCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E5ED05B-D3BB-4279-A4B6-E1595F24ACCE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{7E5ED05B-D3BB-4279-A4B6-E1595F24ACCE}.Debug|x64.Build.0 = Debug|Any CPU
+		{7E5ED05B-D3BB-4279-A4B6-E1595F24ACCE}.Release|x64.ActiveCfg = Release|Any CPU
+		{7E5ED05B-D3BB-4279-A4B6-E1595F24ACCE}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
