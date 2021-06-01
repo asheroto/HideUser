@@ -2,6 +2,11 @@
 
 Hide/show users on Windows logon screen.
 
+# Download
+Download the lastest release [from releases](https://github.com/asheroto/HideUser/releases/latest/download/HideUser.exe).
+
+# Instructions
+
 **Usage:**
 
 ```HideUser [options] <Username>```
