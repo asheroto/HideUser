@@ -16,10 +16,16 @@ Module Module1
                     mode = "list"
                     Exit For
                 Case "--hide"
+                    If s.Length - 1 < i + 1 Then
+                        ShowHelp()
+                    End If
                     mode = "hide"
                     username = s(i + 1)
                     Exit For
                 Case "--show"
+                    If s.Length - 1 < i + 1 Then
+                        ShowHelp()
+                    End If
                     mode = "show"
                     username = s(i + 1)
                     Exit For
